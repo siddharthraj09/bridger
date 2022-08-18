@@ -1,0 +1,3 @@
+firstName,lastName,companyName,designation,pictureUrl,emailContacts
+ram,singh,bridger,md,http://192.168.1.116:3000/api/v1/dashboard/createContacts/uploadImage/image_1658481692853.jpg,ram@555.co
+rama,kumar,bridger,md,http://192.168.1.116:3000/api/v1/dashboard/createContacts/uploadImage/image_1658484609285.jpg,ram@877.co
